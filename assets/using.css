@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.iconheight {
+    height: 3rem;
+}
+
+.customs1 {
+    margin-top: 101px !important;
+}
+
+.customs2 {
+    margin: 10px 0;
+}
+
+.customs3 {
+    height: 120px;
+}
